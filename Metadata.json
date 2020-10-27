@@ -1,0 +1,20 @@
+{
+    "Author": "Everson Amancio",
+    "ContentSize": 5206,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/restart-a-service-in-an-azure-virtual-machine-based-on-an-azure-alert/master/RestartServiceFromAzureAlertV2.ps1",
+    "DownloadCount": 1347,
+    "Id": "Restart-a-service-in-an-e88f5d49",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 46,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2019-4-4T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This sample automation runbook is based on the Restart-ServiceFromAzureAlert runbook, created by the Automation Team and is designed to take the payload from an Azure Alert based on a Log Analytics query for stopped services.",
+    "Title": "Restart a service in an Azure virtual machine based on an Azure Alert",
+    "UpdatedDate": "2019-4-4T00:00:00",
+    "Url": "https://github.com/azureautomation/restart-a-service-in-an-azure-virtual-machine-based-on-an-azure-alert",
+    "UserTags": "restart, Services"
+}
